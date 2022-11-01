@@ -4,6 +4,7 @@
   "name": "NewGitHubExample",
   "resources": [
     {"id":{"name":"spr_character","path":"sprites/spr_character/spr_character.yy",},"order":0,},
+    {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
